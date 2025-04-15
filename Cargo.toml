@@ -1,6 +1,11 @@
 [package]
 name = "typed_builder_rules"
+description = "Opinionated and very limited macro_rules reimplementation of the typed_builder macro"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/nrabulinski/typed_builder_rules"
+keywords = ["builder"]
+categories = ["rust-patterns"]
 
 [dependencies]
